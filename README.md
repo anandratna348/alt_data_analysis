@@ -1,10 +1,10 @@
-## 📊 Overview
+## Overview
 
 This project addresses the data analysis assignment for Alt Mobility's Data Analyst Internship. The goal is to extract insights from order and payment data using SQL and visualize customer retention trends using Python and Excel.
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 1. **customer_orders.csv**  
    - Contains order details like `order_id`, `customer_id`, `order_date`, `order_amount`, `shipping_address`, `order_status`.
